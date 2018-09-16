@@ -1,8 +1,6 @@
-﻿
-
-using System;
-
+﻿using System;
 using Unity.Lifetime;
+using Unity.Policy.Lifetime;
 
 namespace Unity.AspNet.Mvc
 {
